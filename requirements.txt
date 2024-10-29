@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+moviepy
+google-cloud
+google-cloud-aiplatform 
+vertexai
